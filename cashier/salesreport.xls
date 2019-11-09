@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 >Sales Report</td></tr><tr><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >Date</td><td class=xl24 width=64 >Time</td><td class=xl24 width=64 >Trade Name</td><td class=xl24 width=64 >Generic Name</td><td class=xl24 width=64 >Quantity</td><td class=xl24 width=64 >Amount</td><td class=xl24 width=64 >Profit</td><td class=xl24 width=64 >Dispenser</td></tr><tr><td class=xl24 width=64 >12/22/16</td><td class=xl24 width=64 >11:22 am</td><td class=xl24 width=64 >Medicloamp susp 100l</td><td class=xl24 width=64 >Cloxacillin/Ampicillin BP 125/125mg/5ml</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/22/16</td><td class=xl24 width=64 >11:20 am</td><td class=xl24 width=64 >Neurofen migrain pain max</td><td class=xl24 width=64 >Ibuprofen Lysine 684mg caps</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/21/16</td><td class=xl24 width=64 >7:15 pm</td><td class=xl24 width=64 >Kabuuti Syrup</td><td class=xl24 width=64 >Herbal syrup (UG)</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >3000</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/21/16</td><td class=xl24 width=64 >7:15 pm</td><td class=xl24 width=64 >Zycel 100</td><td class=xl24 width=64 >Celecoxib caps 100mg</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >9000</td><td class=xl24 width=64 >9000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/20/16</td><td class=xl24 width=64 >7:20 pm</td><td class=xl24 width=64 >Zocin caps</td><td class=xl24 width=64 >Azithromycin cabs 250mg</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >3400</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/20/16</td><td class=xl24 width=64 >7:20 pm</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >3500</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/19/16</td><td class=xl24 width=64 >3:00 pm</td><td class=xl24 width=64 >nurofen cold & flu</td><td class=xl24 width=64 >ibuprofen pseudoephedrine</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/19/16</td><td class=xl24 width=64 >2:59 pm</td><td class=xl24 width=64 >Cetamol tabs 500mg strips</td><td class=xl24 width=64 >Paracetamol BP 500mg tabs</td><td class=xl24 width=64 >20</td><td class=xl24 width=64 >340000</td><td class=xl24 width=64 >340000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/17/16</td><td class=xl24 width=64 >1:47 pm</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >700</td><td class=xl24 width=64 >Dispenser</td></tr><tr><td class=xl24 width=64 >12/16/16</td><td class=xl24 width=64 >4:33 pm</td><td class=xl24 width=64 >Savlon solution</td><td class=xl24 width=64 >Chlorhexidine/cetrimide solution</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >6000</td><td class=xl24 width=64 >1500</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/16/16</td><td class=xl24 width=64 >4:28 pm</td><td class=xl24 width=64 >Ecodax-G cream 10g</td><td class=xl24 width=64 >econazole/Genta/beclomethasone 1/0.1/0.025%</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >8000</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >10:37 pm</td><td class=xl24 width=64 >Doxazosin tabs 4mg</td><td class=xl24 width=64 >Doxazosin tabs 4mg</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >1400</td><td class=xl24 width=64 >400</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >10:31 pm</td><td class=xl24 width=64 >Medicloamp susp 100l</td><td class=xl24 width=64 >Cloxacillin/Ampicillin BP 125/125mg/5ml</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >10:23 pm</td><td class=xl24 width=64 >Mycota Athletes foot powder</td><td class=xl24 width=64 >Zinc undecylenate, undecyclenic acid-70mg</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >400</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >4:55 pm</td><td class=xl24 width=64 >Ciprofloxacin-accord 500mg uk</td><td class=xl24 width=64 >Ciprofloxacin tabs 500mg</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >12500</td><td class=xl24 width=64 >6600</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >4:55 pm</td><td class=xl24 width=64 >Duramox syrup 250</td><td class=xl24 width=64 >Amoxicillin syrup 250mg/5ml</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >500</td><td class=xl24 width=64 >400</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >4:01 pm</td><td class=xl24 width=64 >Osteocare tabs</td><td class=xl24 width=64 >Calcium/Magnesium/Vit D3/Zinc tabs</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >20000</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >Administrator</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >10:51 am</td><td class=xl24 width=64 >Cannula 24G  (Yellow)</td><td class=xl24 width=64 >Cannula I.V 24 (Yellow)</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >6000</td><td class=xl24 width=64 >1850</td><td class=xl24 width=64 >Dispenser</td></tr><tr><td class=xl24 width=64 >12/15/16</td><td class=xl24 width=64 >10:51 am</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >700</td><td class=xl24 width=64 >Dispenser</td></tr><tr><td class=xl24 width=64 >12/13/16</td><td class=xl24 width=64 >11:16 am</td><td class=xl24 width=64 >Neurofen migrain pain max</td><td class=xl24 width=64 >Ibuprofen Lysine 684mg caps</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/13/16</td><td class=xl24 width=64 >11:15 am</td><td class=xl24 width=64 >Flucap caps</td><td class=xl24 width=64 >Panadol/caffeine/pseudoeph/piriton400/30/30/4mg</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >3000</td><td class=xl24 width=64 >3000</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/13/16</td><td class=xl24 width=64 >10:36 am</td><td class=xl24 width=64 >Zentel susp gsk 20ml</td><td class=xl24 width=64 >Albendazole susp 100mg/5ml</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >24000</td><td class=xl24 width=64 >6000</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/13/16</td><td class=xl24 width=64 >10:12 am</td><td class=xl24 width=64 >Paraflam tabs</td><td class=xl24 width=64 >IbuprofenParacetamol 400325mg</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >1600</td><td class=xl24 width=64 >1600</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/08/16</td><td class=xl24 width=64 >2:16 pm</td><td class=xl24 width=64 >Syringes 5ml</td><td class=xl24 width=64 >Syringe 5ml</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/08/16</td><td class=xl24 width=64 >2:13 pm</td><td class=xl24 width=64 >Ampiclox caps 500mg gsk</td><td class=xl24 width=64 >Ampicillin/cloxacillin caps 250m/250mg</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/08/16</td><td class=xl24 width=64 >2:02 pm</td><td class=xl24 width=64 >Cannula 22G (blue)</td><td class=xl24 width=64 >Cannula I.V 22G (blue)</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >10000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/08/16</td><td class=xl24 width=64 >2:35 am</td><td class=xl24 width=64 >Prednisolone eye drops</td><td class=xl24 width=64 >Prednisolone Acetate ophthalmic 1%</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >1500</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/08/16</td><td class=xl24 width=64 >2:35 am</td><td class=xl24 width=64 >Paraflam tabs</td><td class=xl24 width=64 >IbuprofenParacetamol 400325mg</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/07/16</td><td class=xl24 width=64 >3:53 pm</td><td class=xl24 width=64 >Medicell -Adhesive Plaster 5cm x 4m</td><td class=xl24 width=64 >Adhesive  Plaster  Zinc Oxide  5cm x4m.</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/07/16</td><td class=xl24 width=64 >3:52 pm</td><td class=xl24 width=64 >Medicloamp susp 100l</td><td class=xl24 width=64 >Cloxacillin/Ampicillin BP 125/125mg/5ml</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/07/16</td><td class=xl24 width=64 >3:41 pm</td><td class=xl24 width=64 >Primolut-N tabs</td><td class=xl24 width=64 >Norethistone tabs 5mg</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >15000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/07/16</td><td class=xl24 width=64 >3:41 pm</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/06/16</td><td class=xl24 width=64 >4:03 am</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/06/16</td><td class=xl24 width=64 >2:56 am</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/05/16</td><td class=xl24 width=64 >8:42 pm</td><td class=xl24 width=64 >Neurofen migrain pain max</td><td class=xl24 width=64 >Ibuprofen Lysine 684mg caps</td><td class=xl24 width=64 >5</td><td class=xl24 width=64 >5000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/05/16</td><td class=xl24 width=64 >8:42 pm</td><td class=xl24 width=64 >Zocin caps</td><td class=xl24 width=64 >Azithromycin cabs 250mg</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >5100</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/05/16</td><td class=xl24 width=64 >8:41 pm</td><td class=xl24 width=64 >Zocin caps</td><td class=xl24 width=64 >Azithromycin cabs 250mg</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >5100</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/05/16</td><td class=xl24 width=64 >8:36 pm</td><td class=xl24 width=64 >Osteocare tabs</td><td class=xl24 width=64 >Calcium/Magnesium/Vit D3/Zinc tabs</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >4000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr><tr><td class=xl24 width=64 >12/05/16</td><td class=xl24 width=64 >6:37 pm</td><td class=xl24 width=64 >ORS </td><td class=xl24 width=64 >Oral rehydratio Salts</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >blwasampijja</td></tr>
